@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+.City{
+  display: flex;
+  justify-content: space-around;
+ }
+ .titreLocation{
+  text-align: center;
+  font-family: 'Lemonada', cursive;
+color: rgb(37, 37, 37);
+font-weight: bold;
+}
+.desLocation{
+  color: rgb(73, 73, 73);
+}
+.chiffres{
+  display: flex;
+  justify-content: space-between;
+  }
+  .statistique{
+    background-image: url(./photos/background.jpg);
+    background-size: 100%;
+    overflow: visible;
+    margin: 0%;
+  }
+  .repartition{
+    display: flex;
+    text-align: center;
+  }
+  .sessions{
+    margin: 0%;
+  }
